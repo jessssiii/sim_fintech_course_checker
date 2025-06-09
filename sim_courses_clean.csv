@@ -1,0 +1,217 @@
+course_number;event;lecturer;classification
+7,206,1.00;Financial Management (SIM);Truijens Thorsten;Compulsory Subjects
+7,202,1.00;International Management (SIM);Ruigrok Winfried;Compulsory Subjects
+7,204,1.00;Strategic Leadership (SIM);Bruch Heike;Compulsory Subjects
+7,200,1.00;Strategic Management (SIM);Laamanen Tomi;Compulsory Subjects
+9,210,1.00;Mergers & Acquisitions (SIM);Binder Andreas;Core Electives
+7,212,1.00;The SIMagination Challenge - Part 1 (SIM);Stonig Joachim;Core Electives
+11,702,1.00;Digital Therapeutics;Kowatsch Tobias;Electives
+11,801,1.00;Digital Biomarkers: Hack Your Metabolic Code!;Kowatsch Tobias;Electives
+11,802,1.00;Digital Assistants in the Clinic;Hastings Joanna;Electives
+11,803,1.00;Digitale Transformation im Gesundheitswesen: Wie gründet man ein erfolgreiches Startup?;Kowatsch Tobias;Electives
+11,804,1.00;Artificial Intelligence for Health - Project;Hastings Joanna;Electives
+11,902,1.00;'Boost your Master's Thesis in Health Science!';Geissler Alexander;Electives
+7,012,1.00;R & D Management;Palmié Maximilian;Electives
+7,014,1.00;Produktionsmanagement;Friedli Thomas;Electives
+7,015,1.00;Introduction to Business Process Management;Grisold Thomas;Electives
+7,016,1.00;Managing IT Security and Privacy in Organisations;Hein Andreas;Electives
+7,017,1.00;Cybersecurity and Privacy;Mitrokotsa Katerina;Electives
+7,022,1.00;Cloud Computing für datengetriebene Geschäftsmodelle: Technologien und Strategien;Köpple Felix;Electives
+7,024,1.00;Operative Excellence (OPEX);Friedli Thomas;Electives
+7,026,1.00;Supply Chain Management I;N. N.;Electives
+7,027,1.00;Digitalisierung in der Industrie: Smart Production und Services;Friedli Thomas;Electives
+7,028,1.00;IT Management: Strategische Positionierung der IT in der Wertschöpfung;Baumöl Ulrike;Electives
+7,029,1.00;Quality Management for Superior Performance and Innovation;Budde Lukas;Electives
+7,030,1.00;Managing the Dynamics of Business Processes;N. N.;Electives
+7,033,1.00;Methods: Integrated Business Planning with Certificate;Budde Lukas;Electives
+7,036,1.00;Project Leadership für Business Innovation;Rohner Peter;Electives
+7,037,1.00;Effective Data Communication - How to Talk about Data;Bünzli Fabienne;Electives
+7,038,1.00;Management von Verkehrsunternehmen;Häberle Ludwig;Electives
+7,039,1.00;Gestaltung und Management von Digital Channels und Stakeholder Relationships;Stanoevska Katarina;Electives
+7,041,1.00;Asia Compact: Fintech Innovation in Singapore and Southeast Asia (FISSA) (location: Singapore);Njavro Mato;Electives
+7,042,1.00;Asia Compact: Economics of Blockchain Applications in Finance (EBAF) (location: Singapore);Hrnjic Emir;Electives
+7,043,1.00;Mobile Sensing and Behavioral Metrics;Stachl Clemens;Electives
+7,044,1.00;Turning Geographic Data into Business Insights;Ebert Tobias;Electives
+7,046,1.00;Corporate Venture Capital;Ademi Petrit;Electives
+7,066,1.00;Clean Energy Marketing;Wüstenhagen Rolf;Electives
+7,080,1.00;Sales Management in B2B-Märkten;Schmitz Christian;Electives
+7,115,1.00;Business Performance Management;Schnegg Maël;Electives
+7,116,1.00;Digital Auditing;Fijneman Robertus;Electives
+7,117,1.00;Marktrisikomanagement;Huggenberger Markus;Electives
+7,118,1.00;Excel-based Financial Modelling for Financial Statement Analysis and Corporate Valuation;Kustner Clemens;Electives
+7,120,1.00;Nachhaltige Investments und alternative Unternehmensfinanzierungen;Grüner Andreas;Electives
+7,121,1.00;Bankenrechnungslegung;Blumer Andreas;Electives
+7,122,1.00;Fallstudien in Financial Management Advisory;Leibfried Peter;Electives
+7,123,1.00;Fundamental Corporate Valuation for active Investors;Kustner Clemens;Electives
+7,124,1.00;'Pay for Performance': Vergütung und finanzielle Steuerung bei börsenkotierten Unternehmen;Hostettler Stephan;Electives
+7,125,1.00;Finanzielle Führung in der Praxis;Schäfer Dirk;Electives
+7,127,1.00;Challenges of Financial Management for International (family owned) Companies;N. N.;Electives
+7,128,1.00;Integrated Reporting und Corporate Communication;Berndt Thomas;Electives
+7,131,1.00;Internal Audit;Eugster Florian;Electives
+7,134,1.00;Accounting for Global Projects;Hoffmann Olaf;Electives
+7,135,1.00;Transfer Pricing - Steuerplanung multinationaler Unternehmen;Brülisauer Peter;Electives
+7,144,1.00;Rechnungslegung, Revision und Governance für Schweizer KMU;Kleibold Thorsten;Electives
+7,146,1.00;Life Insurance;Rach Manuel;Electives
+7,148,1.00;Valuation for Accounting;Gutsche Robert;Electives
+7,164,1.00;CFA Institute Research Challenge;Ramelli Stefano;Electives
+7,170,1.00;Impact Investing;Kölbel Julian;Electives
+7,228,1.00;Applied Business Analytics;Braun Alexander;Electives
+7,229,1.00;Applied Valuation;Ben Ammar Semir;Electives
+7,232,1.00;Unternehmensführung in Klein- und Mittelunternehmen (KMU);Fust Alexander;Electives
+7,233,1.00;Grand Challenge: Responsible Leadership;Weibel Antoinette;Electives
+7,234,1.00;Managing Collaborative Innovation for Net-Zero;Zobel Ann-Kristin;Electives
+7,243,1.00;Grand Challenge: Der Beitrag von Unternehmen zur Überwindung von (ökonomischer) Ungleichheit und sozialer Separation;Böhm Stephan Alexander;Electives
+7,244,1.00;Grand Challenge: What's my why? Management und Purpose;Erk Christian;Electives
+7,245,1.00;Strategy Evolution: Fallanalysen von Unternehmensgeschichten;Murmann J. Peter;Electives
+7,246,1.00;Grand Challenge: Nachhaltige Start-Ups;Stähler Patrick;Electives
+7,248,1.00;Asia Compact: International Management in the New Asia Pacific;Ambos Björn;Electives
+7,249,1.00;Asia Compact: Social and Sustainable Entrepreneurship in Singapore and South-East Asia;Bergmann Heiko;Electives
+7,266,1.00;Asia Compact: Principles and Practice of Forecasting (overseas);Fengler Matthias Reginald;Electives
+7,355,1.00;Climate Change and Inequality;Rinscheid Adrian;Electives
+7,356,1.00;Political Communication;Gomez Ribas Carlos;Electives
+7,358,1.00;Climate and Energy Governance;Rinscheid Adrian;Electives
+7,359,1.00;Failed States and Nation Building;Hodler Roland;Electives
+7,364,1.00;Silk Roads, Old and New: China, Europe, and Central Asia in Historical, Economic, Sociocultural, and Geopolitical Contexts;Van Drongelen Wesley;Electives
+7,367,1.00;From Moral to Leading Power: Contemporary India in World Politics;Kumar Manali;Electives
+7,368,1.00;Multilateral Development Banks: Mandates, Projects, Challenges;Denk Christoph;Electives
+7,369,1.00;Industrial Policy and Sustainable Transition;Massoc Elsa Clara;Electives
+7,371,1.00;Foreign Policy of the European Union;Lehmkuhl Dirk;Electives
+7,372,1.00;Artificial Intelligence and Democracy;Bertsou Eri;Electives
+7,377,1.00;Introduction to Cryptography and Cybersecurity;Horlemann Anna-Lena;Electives
+7,381,1.00;Consultancy Project: Rebuilding Security in Europe;Greminger Thomas;Electives
+7,383,1.00;The Second Nuclear Age: Sorting Out What's New and What's Not;Davis James Warren;Electives
+7,395,1.00;Consultancy Project: Energy in Transition - Challenges and Opportunities in the Gulf Region;Frei Christoph;Electives
+7,396,1.00;Consultancy Project: Economic Crisis and Crisis Management;Andritzky Jochen;Electives
+7,412,1.00;Rechtsgeschäftsgestaltung im Privatrecht;Rusch Arnold F.;Electives
+7,414,1.00;Vertiefung Strafprozessrecht;Jeker Konrad;Electives
+7,418,1.00;Arbeitsrecht I;Hänsenberger Silvio;Electives
+7,420,1.00;Finanzmarktrecht;Bertschinger Urs;Electives
+7,428,1.00;Baurechtliches Immobiliarsachenrecht;Rusch Arnold F.;Electives
+7,430,1.00;Vertiefung Zivilprozessrecht;Erk Nadja;Electives
+7,432,1.00;Prozessieren im öffentlichen Recht;Brunner Arthur;Electives
+7,434,1.00;Recht der Anwaltschaft;Rusch Arnold F.;Electives
+7,436,1.00;Internationale Schiedsgerichtsbarkeit;Pfisterer Stefanie;Electives
+7,438,1.00;Unternehmenshaftung;Fisch Jürg;Electives
+7,461,1.00;Governing Digital Platforms;Valente Mariana;Electives
+7,463,1.00;Tax Law and Sustainable Development;Lideikyte Huber Giedre;Electives
+7,481,1.00;International Dispute Settlement;Achermann Katja Francesca;Electives
+7,482,1.00;International Human Rights in Practice;Reuter Tina Kempin;Electives
+7,483,1.00;International Criminal Law;Grover Leena;Electives
+7,486,1.00;Organised Crime, Corruption and Drug Trafficking;Schloenhardt Andreas;Electives
+7,487,1.00;International and European Intellectual Property Law;Semmelmann Constanze;Electives
+7,488,1.00;Legal Cultures;Müller-Chen Markus;Electives
+7,489,1.00;The Law of Corporate Sustainability (Practice Seminar);Jungo Brüngger Renata;Electives
+7,510,1.00;Critical Perspectives on AI and Management;Blagoev Blagoy Valentinov;Electives
+7,514,1.00;Rethinking Organizations in a Complex World;Blagoev Blagoy Valentinov;Electives
+7,516,1.00;Kulturprägendes Human Resource Management;Weibel Antoinette;Electives
+7,518,1.00;Systemisches Change Management;Schmid Torsten;Electives
+7,520,1.00;Strategische Kreativität / Kreative Strategien;Grand Simon;Electives
+7,802,1.00;Wirtschaftscluster als Motor für Innovation und Wachstum: Eine Exkursion in führende Branchenzentren in der Schweiz und in Deutschland;Ebert Tobias;Electives
+7,803,1.00;Shadowing von Führungskräften: Zeit- und Selbstmanagement in der KMU-Praxis;Fust Alexander;Electives
+7,804,1.00;Transportation Systems;Laesser Christian;Electives
+7,805,1.00;Experimental Research in Managing Climate Solutions;Mai Robert;Electives
+7,916,1.00;Elites and Sustainable Value Creation: China, the US and the Global Political Economy;Casas Klett Tomas;Electives
+7,923,1.00;Business and Climate Change in Asia Pacific: Greentech Superpower and Implications for Europe;Vuichard Pascal;Electives
+7,926,1.00;Introduction to Machine Learning in R;Stachl Clemens;Electives
+9,007,1.00;Introduction to Blockchain, DLT & Crypto;Bauer-Hänsel Ingrid;Electives
+9,012,1.00;Community Management;Lenz-Kesekamp Vera Kristina;Electives
+9,014,1.00;Introduction to Software Engineering;Salvaneschi Guido;Electives
+9,019,1.00;Cyber Security (MBI);Mitrokotsa Katerina;Electives
+9,019,2.00;Cyber Security (MBI): Exercises;Papadopoulos Florias;Electives
+9,114,1.00;Finanzielle Führung von Startups: Ein praxisorientiertes Seminar zur Finanzierung von Wachstum und zum Umgang mit Risikokapitalgebern;Schäfer Dirk;Electives
+9,117,1.00;International Financial Statement Analysis;Morkötter Lisa;Electives
+9,118,1.00;Ausgewählte Finance-Themen und ihre Anwendung;Mondello Enzo;Electives
+9,120,1.00;Board Governance;Sutter Michèle;Electives
+9,124,1.00;Selected Topics in Accounting & Auditing Research;Dinh Tami;Electives
+9,150,1.00;Europe Compact - Systemic Risk;Casanova Catherine;Electives
+9,154,1.00;Sustainable Investment Challenge;Nerlinger Martin;Electives
+9,162,1.00;Corporate Finance (MBF);Weik Stefan;Electives
+9,194,1.00;Ethics of Financial Services;Krause Florian;Electives
+9,451,1.00;Workshop and Lecture Series on the Law and Economics of Innovation;Valente Mariana;Electives
+9,453,1.00;Summer School: Transformative Leadership;Vasel Johann Justus;Electives
+7,556,1.00;Freier Bereich/Open Area: Coachingsituationen gestalten;Rohr Volker;Area of Concentration
+7,600,1.00;Geschichte/History: Von den Opiumkriegen zur Opioidkrise - der globale Drogenhandel seit dem 19. Jahrhundert;Bänziger Peter;Area of Concentration
+7,601,1.00;Geschichte/History: Die Geschichte des Experten in Politik, Recht und Wirtschaft;Hirschi Caspar;Area of Concentration
+7,602,1.00;Geschichte/History: Konturen der Macht - die ungleiche Allianz China und Russland;Sapper Manfred;Area of Concentration
+7,603,1.00;Geschichte/History: Strategie - eine kulturgeschichtliche Perspektive;Landfester Ulrike;Area of Concentration
+7,604,1.00;Geschichte/History: Ursprünge des koordinierten Kapitalismus;Zaugg Thomas;Area of Concentration
+7,605,1.00;Geschichte/History: Vom Goldstandard zur Euro-Krise - die Entwicklung des internationalen Währungssystems;Weber Florian;Area of Concentration
+7,608,1.00;Geschichte/History: Natural Disasters in History;Achermann Dania;Area of Concentration
+7,610,1.00;Geschichte/History: Europe's Long 1989;Bickerton Christopher;Area of Concentration
+7,611,1.00;Geschichte/History: Free Market - The History of an Idea;Soll Jacob;Area of Concentration
+7,613,1.00;Geschichte/History: The History of Global Governance from the Nineteenth Century to the Present;Toye Richard John;Area of Concentration
+7,614,1.00;Geschichte/History: To Buy or Not to Buy? Consumer Boycotts in the Nineteenth and Twentieth Centuries;Hertel Patricia;Area of Concentration
+7,619,1.00;Geschichte/History: Werkstatt/Workshop;Achermann Dania;Area of Concentration
+7,620,1.00;Gesellschaft/Society: Organizing Power;Elliker Florian;Area of Concentration
+7,621,1.00;Gesellschaft/Society: Reichtum und soziale Verantwortung;Vogel Berthold;Area of Concentration
+7,622,1.00;Gesellschaft/Society: Films about Work - Making the Ordinary Glamorous;Brzozowski Grzegorz;Area of Concentration
+7,623,1.00;Gesellschaft/Society: Critiques of Violence;Urricelqui Leire;Area of Concentration
+7,626,1.00;Gesellschaft/Society: Liaisons Dangereuses - Verschwörungstheorien und Wissenschaft;Keller Felix;Area of Concentration
+7,627,1.00;Gesellschaft/Society: Reconstitution of Trade on Digital Platforms?;Aspers Patrik;Area of Concentration
+7,628,1.00;Gesellschaft/Society: Markets - Context, Making and Impact;Aspers Patrik;Area of Concentration
+7,631,1.00;Gesellschaft/Society: Religion and Global Conflict;Metreveli Tornike;Area of Concentration
+7,636,1.00;Gesellschaft/Society: Why Pandemics feel Personal - Sociological Aspects of Illness;Bradby Hannah;Area of Concentration
+7,639,1.00;Gesellschaft/Society: Werkstatt/Workshop;Abbt Christine;Area of Concentration
+7,640,1.00;Kreativität/Creativity: Zwischen Tradition und Avantgarde - Transformation des Textilmuseums St. Gallen;Kritzmöller Monika;Area of Concentration
+7,641,1.00;Kreativität/Creativity: Fixed Forms are Never Fix - Routines in Communication;Quassdorf Sixta;Area of Concentration
+7,642,1.00;Kreativität/Creativity: Design Your Life;Kernbach Sebastian;Area of Concentration
+7,643,1.00;Kreativität/Creativity: Curating Creativity - Exploring the HSG Art Collection;Davidson Lewis;Area of Concentration
+7,644,1.00;Kreativität/Creativity: Cultures of Movement - (Im)Mobility, Affect and the Tango Laboratory;Plass Arno;Area of Concentration
+7,659,1.00;Kreativität/Creativity: Werkstatt/Workshop;Steyaert Chris;Area of Concentration
+7,663,1.00;Kulturen/Cultures: Debating Migration, Understanding Societies;Tosic Jelena;Area of Concentration
+7,664,1.00;Kulturen/Cultures: Religion and Democracy in India;Rollier Paul;Area of Concentration
+7,668,1.00;Kulturen/Cultures: Islam, Gender and Sexuality;Dominguez Diaz Marta;Area of Concentration
+7,671,1.00;Kulturen/Cultures: Asia Compact - Intercultural Competence Fieldschool in Singapore;Berg Daria;Area of Concentration
+7,679,1.00;Kulturen/Cultures: Werkstatt/Workshop;Kesselring Rita;Area of Concentration
+7,680,1.00;Medien/Media: Politische Kommunikation;Kamps Klaus;Area of Concentration
+7,681,1.00;Medien/Media: Automating Information Disorder - Social Media, Algorithms and AI in the Age of Disinformation;Di Salvo Philip;Area of Concentration
+7,682,1.00;Medien/Media: AI and Communication;Natale Simone;Area of Concentration
+7,685,1.00;Medien/Media: Breaking the Waves - What Innovation can Learn from Film Avant-Garde;Metelmann Jörg;Area of Concentration
+7,686,1.00;Medien/Media: Participatory Digital Media - a Visual Primer;Alexander Elitsa;Area of Concentration
+7,687,1.00;Medien/Media: Photography, Visual Culture and Society;Nolas Melissa;Area of Concentration
+7,690,1.00;Medien/Media: Why is Pop Music Popular? Taylor Swift, Critical Theory and Cultural Studies;Lieber Marlon;Area of Concentration
+7,699,1.00;Medien/Media: Werkstatt/Workshop;Barassi Veronica;Area of Concentration
+7,700,1.00;Recht/Law: Rechtsmedizin;Hausmann Roland;Area of Concentration
+7,701,1.00;Recht/Law: Legal Management and Compliance;Mascello Bruno;Area of Concentration
+7,702,1.00;Recht/Law: Recht und Psychologie - die Tätigkeit von Richtern und Rechtsanwälten aus psychologischer Sicht;Ludewig Revital;Area of Concentration
+7,704,1.00;Recht/Law: Recht und Politik im Spiegel der Literatur;Brühwiler Claudia Franziska;Area of Concentration
+7,705,1.00;Recht/Law: Histories of International Law;Leikin Julia;Area of Concentration
+7,707,1.00;Recht/Law: Social Justice - Race, Class and the Law;Koch Insa Lee;Area of Concentration
+7,719,1.00;Recht/Law: Werkstatt/Workshop;Gschwend Lukas;Area of Concentration
+7,720,1.00;Technologien/Technologies: Predicting Complex Systems - From Climate Science to Economics;Bschir Karim;Area of Concentration
+7,722,1.00;Technologien/Technologies: The Economic and Social Impact of Artificial Intelligence;Meckel Miriam;Area of Concentration
+7,723,1.00;Technologien/Technologies: From Zero to Hero - The Role of Digital Technologies in Post-/Conflict Settings;Ebert Isabel;Area of Concentration
+7,725,1.00;Technologien/Technology: The Socially Aware Web;Capadisli Sarven;Area of Concentration
+7,726,1.00;Technologien/Technologies: Technologies of War Witnessing;Bareikyte Migle;Area of Concentration
+7,730,1.00;Technologien/Technologies: The Digital City as an Answer to Climate Change?;Kurath Monika;Area of Concentration
+7,739,1.00;Technologien/Technologies: Werkstatt/Workshop;Enzerink Suzanne;Area of Concentration
+7,740,1.00;Verantwortung/Responsibility: More Than Fiction? Responsible Entrepreneuring in Popular Media and Beyond;Köhler Anne;Area of Concentration
+7,741,1.00;Verantwortung/Responsability: Morality in Fiction (and the Real World);Mildenberger Carl David;Area of Concentration
+7,742,1.00;Verantwortung/Responsibility: Luxus - normativ-philosophische Erkundigungen;Seele Peter;Area of Concentration
+7,743,1.00;Verantwortung/Responsibility: Führungsethik - Werte, Integrität, Verantwortung;Wagner Bernd;Area of Concentration
+7,744,1.00;Verantwortung/Responsibility: Governing Finance for Tackling Climate Change;Egli Florian;Area of Concentration
+7,745,1.00;Verantwortung/Responibility: Amazonia NexBio- Entrepreneurship and Socio-Bio-Economy in the Amazon;Boanada Fuchs Vanessa;Area of Concentration
+7,746,1.00;VerantwortungResponsibility: Local Innovations and Social Entrepreneurship for Sustainability in Eastern Africa - An Immersive Learning Experience;Murmann J. Peter;Area of Concentration
+7,747,1.00;Verantwortung/Responsibility: Corporations, Finance and the World;Stephen Sarah Lilian;Area of Concentration
+7,748,1.00;Verantwortung/Responsibility: Energy Transition and Material Flows in a Net Zero Society;Desing Harald;Area of Concentration
+7,749,1.00;Verantwortung/Responsibility: Inclusive Leadership - wie führt man Teams in der Zukunft?;Hartmann Ines;Area of Concentration
+7,750,1.00;Verantwortung/Responsibility: Visionen einer nachhaltigen Zukunft - Transformation hin zu den Nachhaltigkeitszielen 2030;Binswanger Christa;Area of Concentration
+7,751,1.00;Verantwortung/Responsibility: Finding Leadership;Vives Gabriel Jordi;Area of Concentration
+7,752,1.00;Verantwortung/Responsibility: Energy Sector in Transition - Legal and Economic Issues;Antonioli Barbara;Area of Concentration
+7,754,1.00;Verantwortung/Responsibility: Integrating Different Ways of Knowing for Societal Transformation;Förster Ruth;Area of Concentration
+7,755,1.00;Verantwortung/Responsibility: African Perspectives on Climate Change, Environment and the Right to Development;Ngosso Mathieu Thierry;Area of Concentration
+7,756,1.00;Verantwortung/Responsibility: Business and Human Rights - Ethical, Legal and Managerial Perspectives;Wettstein Florian;Area of Concentration
+7,757,1.00;Verantwortung/Responsibility: Rethinking Economies in a Carbon-Constrained World;Schneider Nina;Area of Concentration
+7,758,1.00;Verantwortung/Responsibility: Business Corporations, Politics, and Society;Okeja Uchenna;Area of Concentration
+7,760,1.00;Freier Bereich/Open Area: Humankapital und Bildungsökonomie;Meisel Sebastian;Area of Concentration
+7,781,1.00;Skills: Julia - A Fresh Approach to Numerical Computing;Söderlind Paul;Skills
+7,784,1.00;Skills: Theorie und Praxis der Rede- und Gesprächsrhetorik - erfolgreich argumentieren und überzeugen;Berndonner Michael;Skills
+7,785,1.00;Skills: Workshop 'StartWoche' (Master-Stufe);Capaul Roman;Skills
+7,786,1.00;Skills: 'StartWeek' Workshop (Master's Level);Capaul Roman;Skills
+7,787,1.00;Skills: You Gotta be Joking! Humor as a Key Communication Skill and its Role in Society;Hinnen Andri;Skills
+7,789,1.00;Skills: Programming with Advanced Computer Languages;Silic Mario;Skills
+7,790,1.00;Skills: Teams verantwortungsvoll führen - Leadership und Gruppendynamik;Walzik Sebastian;Skills
+7,793,1.00;Skills: SHSG Summer School: Python & Generative AI Bootcamp;Bacchelli Alberto;Skills
+7,795,1.00;Skills: DreamTeam - Mentoringprogramm für die nächste Generation (Teil 1);Peters Michael;Skills
+7,796,1.00;Skills: Eine wichtige New Leadershipkompetenz - Führungskraft als Coach;Hoffmann Bettina;Skills
+7,797,1.00;Skills: Handhabung von Wicked Problems - System Dynamics im Gesundheitswesen;Tschopp Flavio Orlando;Skills

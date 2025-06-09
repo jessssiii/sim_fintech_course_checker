@@ -1,0 +1,62 @@
+Number;Name;Lecturer;Semester;ECTS
+7,590;Fintech - Economics and Technology;Gruber Peter;Autumn;4
+8,590;Fintech Seminars;Georg Co-Pierre;Spring;4
+7,040|8,023;RPV: Design Thinking for Artificial Intelligence;Hehn Jennifervan Giffen Benjamin;A & S;8
+7,044;Introduction to Artificial Intelligence and Machine Learning;Mommert Michael;A;6
+7,230;Introduction to Machine Learning and Deep Learning;Borth Damian;A;4
+7,235;Decision Making under Risk and Uncertainty;Biener Christian;A;4
+7,310;Data Analytics I: Predictive Econometrics;Marekova Jana;A;4
+7,325;Smart Data Analytics;Härdle Wolfgang;A;4
+7,682/7,728;Medien/Media: Big Data, Artificial Intelligence and the Algorithmic Society;Barassi Veronica;A;6
+7,852;Human Computer Interaction;Schöning Johannes;A;6
+8,024;FPV: Big Data und Data Science - Intelligente Datenprodukte entwickeln (not FS24);Blohm Ivo;S;4
+8,048;Introduction to Artificial Intelligence and Machine Learning (not FS24 & FS25);Borth Damian;S;6
+8,230;Introduction to Machine Learning and Deep Learning;Borth DamianGonon Lukas;S;4
+8,274;Corporate Finance, Banking and Venture Capital;Häfner SamuelKeuschnigg Christian;S;4
+8,330;Machine Learning (MiQEF);Grigoryeva Lyudmila;S;4
+8,334;Game Theoretic Models for a Digital World;Gizatullina Alia;S;4
+8,380;Quantitative Text Analysis (not in FS25);Gava Roy;S;4
+8,784;Skills: Understanding Artificial Intelligence;Solèr  Marc Elias;S;3
+8,925;Artificial Intelligence and Behavioral Science;de Bellis Emanuel;S;6
+7,162;Financial Programming with Matlab;Schürle Michael Hermann;A;4
+7,264;Data Handling: Databases;Venturini Marco;A;4
+7,781;Skills: Julia - A Fresh Approach to Numerical Computing;Söderlind Paul;A;3
+7,789|8,789;Skills: Programming with Advanced Computer Languages;Silic Mario;A & S;3
+7,854;Data Science;Handschuh Siegfried;A;6
+7,856;Advanced Software and Systems Engineering;Mayer SimonBarbara Weber;A;6
+7,858;Advanced Databases;Niklaus Christina;A;6
+7,926;Introduction to Machine Learning in R;Stachl Clemens;A;6
+8,016;Methoden: Big Data und Data Science;Blohm Ivo;S;6
+8,017;Engineering Software Systems (not FS24 & FS25));Salvaneschi Guido;S;4
+8,060;Web Data and Digital Analytics (not FS24 & FS25);Hildebrand Christian;S;4
+8,273;Multivariate Statistical Analysis with Python;Fengler Matthias;S;4
+8,338;Introduction to Web Mining for Social Scientists (not FS24);Matter Ulrich;S;4
+8,465;AI Regulation and Society;Valente Mariana;S;4
+8,723;Technologien/Technologies: Verantwortung der Daten;Münker  Stefan;S;3
+8,780;Skills: Network Analysis and Visualization with R & Python (not in FS25);Hoffmann Magnus;S;3
+8,785;Skills: Data Security and Privacy (not in FS25);Mitrokotsa Katerina;S;3
+8,786;Skills: Foundations of Computational Economics and Finance in MATLAB;Bodory Hugo;S;3
+9,014;Introduction to Software Engineering;Salvaneschi Guido;A;6
+9,015;Cryptography (not FS24 & FS25);Mitrokotsa Katerina;S;6
+9,272;Big Data Analytics;Heiniger Sandro;A;4
+7,008;RPV: Data Science - Methods and Technologies for Data-driven Business Models;Wulf Jochen Andreas;A;4
+7,017;Cybersecurity and Privacy;Mitrokotsa Katerina;A;3
+7,041;Fintech Innovation in Singapore and Southeast Asia (FISSA);Njavro Mato;A;3
+7,048;Value Creation with (Big) Data - Enterprise Solutions and Technologies for Text Analytics;Back Andrea;A;3
+7,260;Industrial Organization and Digitalization;Bühler Stefan;A;4
+7,377;Introduction to Cryptography and Cybersecurity;Horlemann Anna-Lena;A;4
+7,850;Cyber Security;Mitrokotsa Katerina;A;6
+8,011;FPV: Gestaltung Digitaler Produkte und Lösungen mit AI;Leimeister Jan Marco;S;4
+8,027;Ubiquitous Computing and the Internet of Things (not in FS25);Mayer Simon;S;3
+8,032;Methods: Social Network Analysis - a Systematic and Quantifying Approach;Shahrezaye Morteza;S;3
+8,036;Entrepreneurial Finance;Ademi Petrit;S;3
+8,110;Selected Topics in Corporate Finance;Arnold Marc;S;6
+8,151;Asset Allocation and Investment Strategy;Gao Can;S;4
+8,152;Derivatives;Orlov Vitaly & Fengler Matthias;S;4
+8,210;Digital Business and Transformation (not FS24 & FS25);Ebel Philipp Alexander;S;4
+8,288;Blockchain Markets;Häfner Samuel;S;4
+8,320;AI for Decision Making;Mareckova Jana;S;4
+8,711;Recht/Law: Wirecard, Datenanalytik, Vertrauen und Kontrolle - Warnsignale erkennen;Schuchter Alexander;S;3
+9,007;Introduction to Blockchain, DLT & Crypto;Bauer-Hänsel Ingrid;A;3
+9,165;Financial Technlogy (MBF);Barbon Andrea;A;4
+9,174;Regulation of Financial Systems;Kartasheva Anastasia;A;4

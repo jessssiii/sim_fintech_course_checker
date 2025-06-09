@@ -1,0 +1,8 @@
+streamlit
+pandas
+rapidfuzz
+langchain
+langchain-community
+langchain-openai
+chromadb
+openai
