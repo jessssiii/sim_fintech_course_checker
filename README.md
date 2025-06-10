@@ -12,7 +12,5 @@ This is a Streamlit app to check which FinTech courses at the University of St. 
 - `requirements.txt`: Python dependencies.
 - `sim_courses_clean.csv` and `fintech_courses_clean.csv`: Example datasets (you must provide these).
 
-## Setup
-1. Clone this repo or upload files to Streamlit Cloud.
-2. Add your OpenAI key via Streamlit secrets.
-3. Run the app online or locally.
+## Access
+- The app can be accessed under the following link: https://simfintechcoursechecker-asqtfcbysehgldywuapp2nu.streamlit.app/
